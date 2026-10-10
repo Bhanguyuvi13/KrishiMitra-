@@ -1,0 +1,290 @@
+[
+  {
+    "crop": "Rice",
+    "disease": "Possible Rice Blast or Brown Spot",
+    "symptoms": [
+      "Brown/Dark spots"
+    ],
+    "guidance": "Look for diamond or oval spots with grey centres. Keep water levels steady, avoid extra nitrogen and remove badly affected leaves. Confirm with an agriculture officer before treating."
+  },
+  {
+    "crop": "Rice",
+    "disease": "Possible Brown Spot or Iron Toxicity (Bronzing)",
+    "symptoms": [
+      "Orange/Rust-like marks"
+    ],
+    "guidance": "Orange-brown leaf tips often point to nutrient or soil stress. Check drainage and soil condition, and avoid keeping the field flooded for too long. Confirm with an agriculture officer before treating."
+  },
+  {
+    "crop": "Rice",
+    "disease": "Possible Nutrient Deficiency or Bacterial Leaf Blight",
+    "symptoms": [
+      "Yellowing leaves"
+    ],
+    "guidance": "Yellow leaves can mean low nitrogen or bacterial blight. If yellow stripes start at the leaf tip and turn dry, suspect blight and avoid walking through wet fields. Confirm with an agriculture officer before treating."
+  },
+  {
+    "crop": "Rice",
+    "disease": "Possible Powdery Fungal Growth",
+    "symptoms": [
+      "White powder"
+    ],
+    "guidance": "White powdery patches are uncommon in rice. Look closely at the leaf and nearby weeds, keep the field airy and show a sample to an agriculture officer."
+  },
+  {
+    "crop": "Rice",
+    "disease": "Possible Stem Borer Damage or Water Stress",
+    "symptoms": [
+      "Wilting/Drooping"
+    ],
+    "guidance": "Gently pull a drooping central shoot. If it comes out easily, a stem borer may be inside. Also check the water supply. Show the plant to an agriculture officer."
+  },
+  {
+    "crop": "Rice",
+    "disease": "Possible Bacterial Leaf Blight or Blast",
+    "symptoms": [
+      "Leaf drying"
+    ],
+    "guidance": "Drying from the leaf tip downward may be bacterial leaf blight or blast. Avoid extra nitrogen, keep the field clean and ask an agriculture officer to confirm."
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Possible Spot Blotch or Leaf Blight",
+    "symptoms": [
+      "Brown/Dark spots"
+    ],
+    "guidance": "Oval brown spots that join together may be leaf blight. Use clean seed next season, do not leave old crop residue in the field and ask an agriculture officer to confirm."
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Possible Wheat Leaf Rust",
+    "symptoms": [
+      "Orange/Rust-like marks"
+    ],
+    "guidance": "Orange-brown powdery pustules that rub off on your fingers suggest leaf rust. It spreads by wind, so act early and ask your agriculture officer about suitable protection."
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Possible Yellow Rust or Nitrogen Deficiency",
+    "symptoms": [
+      "Yellowing leaves"
+    ],
+    "guidance": "Yellow stripes along the leaf suggest yellow rust, while an even pale yellow may mean low nitrogen. Check for stripes and ask an agriculture officer."
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Possible Powdery Mildew",
+    "symptoms": [
+      "White powder"
+    ],
+    "guidance": "White powdery patches on leaves point to powdery mildew. Avoid very dense sowing and extra nitrogen, and ask an agriculture officer about control."
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Possible Root or Crown Rot, or Water Stress",
+    "symptoms": [
+      "Wilting/Drooping"
+    ],
+    "guidance": "Check soil moisture, then dig up one plant and look at the roots. Brown or rotten roots need an expert opinion."
+  },
+  {
+    "crop": "Wheat",
+    "disease": "Possible Leaf Blight or Water Stress",
+    "symptoms": [
+      "Leaf drying"
+    ],
+    "guidance": "Leaf drying can come from disease, heat or low water. Check irrigation first, then look for spots. Ask an agriculture officer if it keeps spreading."
+  },
+  {
+    "crop": "Maize",
+    "disease": "Possible Leaf Blight or Leaf Spot",
+    "symptoms": [
+      "Brown/Dark spots"
+    ],
+    "guidance": "Long grey-brown or tan lesions suggest leaf blight. Remove crop residue after harvest, rotate crops and ask an agriculture officer to confirm."
+  },
+  {
+    "crop": "Maize",
+    "disease": "Possible Common Rust",
+    "symptoms": [
+      "Orange/Rust-like marks"
+    ],
+    "guidance": "Small reddish-brown raised pustules on both sides of the leaf suggest common rust. Watch how fast it spreads and ask an agriculture officer."
+  },
+  {
+    "crop": "Maize",
+    "disease": "Possible Nutrient Deficiency or Downy Mildew",
+    "symptoms": [
+      "Yellowing leaves"
+    ],
+    "guidance": "Yellowing from the leaf tip in a V shape often means low nitrogen. Pale stripes with white growth underneath may be downy mildew. Ask an agriculture officer to confirm."
+  },
+  {
+    "crop": "Maize",
+    "disease": "Possible Downy Mildew",
+    "symptoms": [
+      "White powder"
+    ],
+    "guidance": "White fuzzy growth, especially under the leaf in humid weather, suggests downy mildew. Remove affected plants early and ask an agriculture officer."
+  },
+  {
+    "crop": "Maize",
+    "disease": "Possible Stalk Rot or Water Stress",
+    "symptoms": [
+      "Wilting/Drooping"
+    ],
+    "guidance": "Check soil moisture first. If the lower stem is soft or discoloured, it may be stalk rot. Ask an agriculture officer."
+  },
+  {
+    "crop": "Maize",
+    "disease": "Possible Leaf Blight or Drought Stress",
+    "symptoms": [
+      "Leaf drying"
+    ],
+    "guidance": "Dry weather can look like disease, so check water supply first. If lesions are visible on the dry leaves, suspect leaf blight and ask an agriculture officer."
+  },
+  {
+    "crop": "Cotton",
+    "disease": "Possible Alternaria Leaf Spot or Bacterial Blight",
+    "symptoms": [
+      "Brown/Dark spots"
+    ],
+    "guidance": "Brown spots with rings may be Alternaria, while angular water-soaked spots may be bacterial blight. Avoid overhead watering and ask an agriculture officer."
+  },
+  {
+    "crop": "Cotton",
+    "disease": "Possible Leaf Reddening (Nutrient Stress)",
+    "symptoms": [
+      "Orange/Rust-like marks"
+    ],
+    "guidance": "Reddish leaves often mean low magnesium or other nutrient stress, especially late in the season. Check the soil and ask an agriculture officer about a soil test."
+  },
+  {
+    "crop": "Cotton",
+    "disease": "Possible Nutrient Deficiency or Sucking Pest Damage",
+    "symptoms": [
+      "Yellowing leaves"
+    ],
+    "guidance": "Look under the leaves for small insects such as whiteflies or jassids. If you find none, think of nutrients. Ask an agriculture officer."
+  },
+  {
+    "crop": "Cotton",
+    "disease": "Possible Powdery (Grey) Mildew",
+    "symptoms": [
+      "White powder"
+    ],
+    "guidance": "White powdery patches suggest mildew. Improve air movement between plants and ask an agriculture officer."
+  },
+  {
+    "crop": "Cotton",
+    "disease": "Possible Fusarium or Verticillium Wilt",
+    "symptoms": [
+      "Wilting/Drooping"
+    ],
+    "guidance": "Cut the stem near the base. Brown streaks inside suggest a wilt disease. Remove affected plants and ask an agriculture officer."
+  },
+  {
+    "crop": "Cotton",
+    "disease": "Possible Water Stress or Pest Damage",
+    "symptoms": [
+      "Leaf drying"
+    ],
+    "guidance": "Check water first, then look for insects on the underside of leaves. Ask an agriculture officer if the drying spreads."
+  },
+  {
+    "crop": "Sugarcane",
+    "disease": "Possible Brown Spot or Eye Spot",
+    "symptoms": [
+      "Brown/Dark spots"
+    ],
+    "guidance": "Small brown spots, some with a pale halo, are common leaf spots. Remove badly affected leaves and keep the field free of weeds. Ask an agriculture officer."
+  },
+  {
+    "crop": "Sugarcane",
+    "disease": "Possible Sugarcane Rust",
+    "symptoms": [
+      "Orange/Rust-like marks"
+    ],
+    "guidance": "Orange to brown pustules on both sides of the leaf suggest rust. Avoid dense planting and ask an agriculture officer about management."
+  },
+  {
+    "crop": "Sugarcane",
+    "disease": "Possible Yellow Leaf Disease or Nutrient Deficiency",
+    "symptoms": [
+      "Yellowing leaves"
+    ],
+    "guidance": "Yellowing of the midrib and then the leaf may be yellow leaf disease, while an even pale colour may mean low nutrients. Ask an agriculture officer."
+  },
+  {
+    "crop": "Sugarcane",
+    "disease": "Possible Mealybug or Woolly Aphid Infestation",
+    "symptoms": [
+      "White powder"
+    ],
+    "guidance": "White powder or cotton-like patches on leaves or stalks often mean mealybugs or woolly aphids. Remove heavily affected leaves and ask an agriculture officer."
+  },
+  {
+    "crop": "Sugarcane",
+    "disease": "Possible Red Rot or Water Stress",
+    "symptoms": [
+      "Wilting/Drooping"
+    ],
+    "guidance": "Split a stalk. A red colour with white patches inside suggests red rot. Remove affected clumps and ask an agriculture officer."
+  },
+  {
+    "crop": "Sugarcane",
+    "disease": "Possible Red Rot, Wilt or Water Stress",
+    "symptoms": [
+      "Leaf drying"
+    ],
+    "guidance": "Check the water supply first, then split a stalk to look inside. Ask an agriculture officer."
+  },
+  {
+    "crop": "Chickpea",
+    "disease": "Possible Ascochyta Blight",
+    "symptoms": [
+      "Brown/Dark spots"
+    ],
+    "guidance": "Brown spots with dark edges on leaves and stems suggest Ascochyta blight, which spreads in cool, wet weather. Use clean seed and ask an agriculture officer."
+  },
+  {
+    "crop": "Chickpea",
+    "disease": "Possible Chickpea Rust",
+    "symptoms": [
+      "Orange/Rust-like marks"
+    ],
+    "guidance": "Small brown or orange pustules suggest rust. Watch how fast it spreads and ask an agriculture officer."
+  },
+  {
+    "crop": "Chickpea",
+    "disease": "Possible Fusarium Wilt or Nutrient Deficiency",
+    "symptoms": [
+      "Yellowing leaves"
+    ],
+    "guidance": "Yellowing that starts on the lower leaves, with drooping, may be wilt. Dig up one plant and look at the roots. Ask an agriculture officer."
+  },
+  {
+    "crop": "Chickpea",
+    "disease": "Possible Powdery Mildew",
+    "symptoms": [
+      "White powder"
+    ],
+    "guidance": "White powdery patches suggest powdery mildew. Avoid dense sowing and ask an agriculture officer."
+  },
+  {
+    "crop": "Chickpea",
+    "disease": "Possible Fusarium Wilt or Dry Root Rot",
+    "symptoms": [
+      "Wilting/Drooping"
+    ],
+    "guidance": "Pull one plant. Dark, dry, brittle roots suggest dry root rot, and brown streaks inside the stem suggest wilt. Remove affected plants and ask an agriculture officer."
+  },
+  {
+    "crop": "Chickpea",
+    "disease": "Possible Wilt or Drought Stress",
+    "symptoms": [
+      "Leaf drying"
+    ],
+    "guidance": "Check soil moisture. If drying follows yellowing and wilting, suspect wilt. Ask an agriculture officer."
+  }
+]
